@@ -3,11 +3,9 @@
 ![Conventions-UsedThis-Book](../../assets/image/02/Table-2-1.jpeg) 
 </div>
 
-# فصل دوم
+# فصل دوم -- خالی کردن فنجان Emptying the Cup
 
-## خالی کردن فنجان
 
-(*Emptying the Cup*)
 
 > **فیلسوف جوان:**
 > «آیا نمی‌بینی که فنجان پر و سرریز شده است؟»
