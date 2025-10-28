@@ -70,7 +70,7 @@
 | 05    | Perpetual Learning                        |  یادگیری مداوم                           | ✅     | [Perpetual-Learning](Book/05/Perpetual-Learning.md)                                       |
 | 06    | Construct Your Curriculum                      | برنامه درسی خود را بسازید              | ✅     | [Construct-Your-Curriculum](Book/06/Construct-Your-Curriculum.md)                                   |
 | 07    | Conclusion                        | نتیجه‌گیری                         | ✅     | [Conclusion](Book/07/Conclusion.md)                                       |
-| 08    | Pattern-List           | فهرست الگو                | ✅     | [Pattern-List](Book/APPENDIX-A/Where-Do-We-Go-From-Here.md)               |
+| 08    | Pattern-List           | فهرست الگو                | ✅     | [Pattern-List](Book/APPENDIX-A/Pattern-List.md)               |
 | 09    | A Call for Apprenticeship          | درخواست برای کارآموزی              | ✅     | [A-Call-for-Apprenticeship](Book/APPENDIX-B/A-Call-for-Apprenticeship.md)               |
 | 10    | A Retrospective on the First Year          | نگاهی به سال اول              | ✅     | [A-Retrospective-on-the-First-Year](Book/APPENDIX-C/A-Retrospective-on-the-First-Year.md)               |
 | 11    | Online Resources         | منابع آنلاین              | ✅     | [Online-Resources](Book/APPENDIX-D/Online-Resources.md)               |
