@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">📘 ترجمه فارسی کتاب Apprenticeship Patterns</h1>
+<h1 align="center"> ترجمه فارسی کتاب Apprenticeship Patterns </h1>
 
 <p align="center">
  الگوهای رشد و بلوغ در مسیر حرفه‌ای شدن برنامه‌نویس
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/stars/hheydarian/apprenticeship-patterns-persian?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/hheydarian/apprenticeship-patterns-persian?color=blueviolet" alt="GitHub forks">
   <img src="https://img.shields.io/github/last-commit/hheydarian/apprenticeship-patterns-persian?color=9cf" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/hheydarian/apprenticeship-patterns-persian" alt="License">
   <img src="https://img.shields.io/badge/Translation-100%25-success" alt="Translation Status">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.apprenticeship-patterns-persian" alt="Visitors">
 </p>
