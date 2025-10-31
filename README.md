@@ -9,7 +9,6 @@
 <p align="center">
  الگوهای رشد و بلوغ در مسیر حرفه‌ای شدن برنامه‌نویس
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/hheydarian/apprenticeship-patterns-persian?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/hheydarian/apprenticeship-patterns-persian?color=blueviolet" alt="GitHub forks">
